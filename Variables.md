@@ -3,7 +3,7 @@
 Variable naming is one of those things that doesn't actually matter to the quality, speed, or efficiency of your code, but if you want there to be a standard, you need to have a naming scheme!
 
 ### Classes
-Classes start with a capitol, and each word in the classes name is seperated by no space, and again has a capitol at the beginning.
+Classes start with a capital, and each word in the classes name is seperated by no space, and again has a capitol at the beginning.
 ```class MyRandomClass():```
 
 ### Variables
